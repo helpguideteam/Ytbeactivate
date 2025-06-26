@@ -17,7 +17,7 @@ Activating YouTube on your Smart TV or streaming device is fast and secure using
 1. Open the YouTube app on your Smart TV, Roku, Fire TV Stick, PlayStation, Xbox, or Apple TV.
 2. Navigate to **Sign In** or **Settings**.
 3. You’ll see an **8-digit activation code** displayed on the screen.
-4. On your phone, tablet, or PC browser, go to: yt.be/activate <https://yt.be/activate>`_.
+4. On your phone, tablet, or PC browser, go to: `yt.be/activate <https://yt.be/activate>`_.
 5. Enter the activation code from your TV.
 6. Sign in to your Google account to link the device. (Click *Create account* if you don’t have one.)
 7. Once activated, your TV screen will refresh, and you’ll be signed in to your YouTube account.
