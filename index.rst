@@ -5,7 +5,7 @@ You just need to visit `yt.be/activate <https://yt.be/activate>`_, enter the cod
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
-   :target: https://fm.ci?aHR0cHM6Ly95b3V0dWJldHYtdHV0b3JpYWxjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://ytbeactivate.github.io/
    :align: center
 
 
