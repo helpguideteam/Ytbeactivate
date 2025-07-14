@@ -110,16 +110,13 @@ Activating YouTube using `yt.be/activate <https://yt.be/activate>`_ is the easie
 
 .. raw:: html
 
-   <script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
+  <!-- Matomo Tag Manager -->
+<script>
+  var _mtm = window._mtm = window._mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
   (function() {
-    var u="//stats.us3.org/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '149']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    g.async=true; g.src='https://stats.us3.org/js/container_1RB0UbgH.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
+<!-- End Matomo Tag Manager -->
