@@ -106,3 +106,20 @@ Summary
 -------
 
 Activating YouTube using `yt.be/activate <https://yt.be/activate>`_ is the easiest way to start streaming on your TV. Just open the app, get the code, visit the site, and sign in. Done in minutes, with no typing on your remote!
+
+
+.. raw:: html
+
+   <script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.us3.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '149']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
