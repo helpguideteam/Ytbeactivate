@@ -1,6 +1,22 @@
 {% extends "!layout.html" %}
 
 {% block extrahead %}
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.us3.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '149']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
   <meta name="msvalidate.01" content="A416C0755D3C5B690EE11BADDF79F4DE" />
 <meta name="google-site-verification" content="4TioYWJFEBXG8zheTR5wZ_xe4xetDIdQy-VrGNB4WrI" />
 <meta name="description" content="You just need to visit `yt.be/activate <https://yt.be/activate>`_, enter the code displayed on your TV, and sign in with your Google account. This guide shows you exactly how to do it, troubleshoot common issues, and start watching your favorite content on the big screen in minutes." />
