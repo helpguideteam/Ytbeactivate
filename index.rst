@@ -9,6 +9,23 @@ You just need to visit `yt.be/activate <https://yt.be/activate>`_, enter the cod
    :align: center
 
 
+
+.. raw:: html
+
+   <script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.us3.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '149']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
 Step-by-Step Guide to Use Yt.be/activate for YouTube TV Setup
 --------------------------------------------------------------
 
